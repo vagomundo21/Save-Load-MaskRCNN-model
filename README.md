@@ -1,5 +1,5 @@
 # Save-Load-MaskRCNN-model
-##This is an attempt at solving the issue with saving and loading MaskRCNN model.
+## This is an attempt at solving the issue with saving and loading MaskRCNN model.
 
 - For saving model after training, view [save_maskrcnn.ipynb](save_maskrcnn.ipynb) file.
 - If the model architecture is changed, change it simultaneously in 2nd block of 'save_maskrcnn.ipynb' which is a modified version of [model.py](https://github.com/matterport/Mask_RCNN/blob/master/mrcnn/model.py) from [MaskRCNN](https://github.com/matterport/Mask_RCNN/blob/master/mrcnn/) by matterport.
